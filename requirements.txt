@@ -1,0 +1,5 @@
+pysummarization
+pymongo
+gnews
+newspaper3k
+lxml[html_clean]
